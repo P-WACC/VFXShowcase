@@ -106,8 +106,8 @@ MonoBehaviour:
     max: Infinity
     enumValues: []
     descendantCount: 0
-  - name: Flame_Par
-    path: Flame_Par
+  - name: ColorFlame_Par
+    path: ColorFlame_Par
     tooltip: 
     space: -1
     spaceable: 0
@@ -7107,7 +7107,7 @@ MonoBehaviour:
   m_InputSlots: []
   m_OutputSlots:
   - {fileID: 8926484042661615074}
-  m_ExposedName: Flame_Par
+  m_ExposedName: ColorFlame_Par
   m_Exposed: 1
   m_Order: 1
   m_Category: 
